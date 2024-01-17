@@ -12,6 +12,7 @@
 
 <body>
     <div class="container">
+        <div class="p">V2</div>
         <header>
             header
         </header>
@@ -23,23 +24,18 @@
             <div class="content">
                 <article class="above">
                     <!-- <img class="thumb-img" src="abc.jpg" alt="" /> -->
-
                     <h2>This is title of post 1</h2>
                     <p>
                         This is description
                     </p>
-
                 </article>
                 <article class="under">
-
                     <div class="leftt">
                         left
                     </div>
-
                     <div class="rightt">
                         right
                     </div>
-
                 </article>
             </div>
         </div>
